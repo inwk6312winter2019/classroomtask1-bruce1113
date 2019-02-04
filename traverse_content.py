@@ -7,3 +7,14 @@ def traverse(directory):
         mylist.append(files)
 
     print(mylist)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    new_list = mylist
+    print(new_list[::-1])
+
+
+
+>>>>>>> modified
+>>>>>>> modified
